@@ -1,0 +1,6 @@
+3
+Kuril mirpur10 ->1-AjmeriGleri->2-Brtc 10 40
+Kanchon kuril ->1-Ajmerygleri->2-Brtc 20 40
+Kuriol Gulisthan ->1-BRTC->2-GreenDhaka->3-ManjilExpress 30 60
+
+
